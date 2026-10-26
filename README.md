@@ -1,6 +1,10 @@
 # Hi, I'm Rania! 👋
 
-<img src="profile.jpg" alt="My profile picture" width="150" align="right" />
+![Dashboard](images/dashboard.png)
+
+```html
+<h1>Digital Tools</h1>
+```
 
 🎓 First-Year Computer Science (Data Engineering) Student at Universiti Teknologi Malaysia (UTM)
 
